@@ -16,3 +16,9 @@
 ## 闪购盲盒jd_sgmh.js
 ## 京东手机狂欢城jd_carnivalcity.js
 ## 城城分现金 jd_city.js
+## 京东赚赚 jd_jdzz.js
+## 口袋书店 jd_bookshop.js
+## 签到领现金 jd_cash.js
+## 摇钱树 jd_moneyTree_heip.js
+## 京喜token jd_cfd.js
+## 京喜农场 jd_jxnc.js

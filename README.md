@@ -14,3 +14,4 @@
 ## 东东萌宠jd_pet.js
 ## 京东种豆得豆jd_plantBean.js
 ## 闪购盲盒jd_sgmh.js
+## 京东手机狂欢城jd_carnivalcity.js

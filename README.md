@@ -15,3 +15,4 @@
 ## 京东种豆得豆jd_plantBean.js
 ## 闪购盲盒jd_sgmh.js
 ## 京东手机狂欢城jd_carnivalcity.js
+## 城城分现金 jd_city.js

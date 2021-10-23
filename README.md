@@ -22,3 +22,4 @@
 ## 摇钱树 jd_moneyTree_heip.js
 ## 京喜token jd_cfd.js
 ## 京喜农场 jd_jxnc.js
+## crazyJoy任务 jd_crazy_joy.js

@@ -14,6 +14,9 @@
 ## 东东萌宠jd_pet.js
 ## 京东种豆得豆jd_plantBean.js
 ## 闪购盲盒jd_sgmh.js
+
+
+# 以下的脚本没有上传↓
 ## 京东手机狂欢城jd_carnivalcity.js
 ## 城城分现金 jd_city.js
 ## 京东赚赚 jd_jdzz.js

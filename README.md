@@ -26,3 +26,4 @@
 ## 京喜token jd_cfd.js
 ## 京喜农场 jd_jxnc.js
 ## crazyJoy任务 jd_crazy_joy.js
+## 京喜88 jd_jxlhb.js

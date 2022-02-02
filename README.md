@@ -1,8 +1,8 @@
 # 青龙面板拉库代码命令↓
 
-#ql repo https://ghproxy.com/https://github.com/q520864/hz.git "jd_|jx" "" ""
+ql repo https://ghproxy.com/https://github.com/q520864/hz.git "jd_|jx" "" ""
 
-#定时规则  35 1-23/4 * * *
+定时规则  35 1-23/4 * * *
 
 ———————————————————————————————————     
 以下带_Mod为内部助力版，不上传助力池↓
@@ -15,7 +15,7 @@
 ## 闪购盲盒jd_sgmh_Mod.js
 
 ———————————————————————————————————     
-#以下上传助力池，Aaron↓
+以下上传助力池，Aaron↓
 ## 京喜财富岛jd_cfd.js
 ## 京喜工厂jd_dreamFactory.js
 ## 东东农场jd_fruit.js
@@ -32,7 +32,7 @@
 ## 京喜88 jd_jxlhb.js
 ## 京喜token jd_cfd.js
 
-###————————————————————————————————————————
+————————————————————————————————————————
 # 以下的脚本没有上传↓
 ## 京东手机狂欢城jd_carnivalcity.js
 ## 城城分现金 jd_city.js

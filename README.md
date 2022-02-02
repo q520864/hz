@@ -32,7 +32,7 @@ ql repo https://ghproxy.com/https://github.com/q520864/hz.git "jd_|jx" "" ""
 ## 京喜88 jd_jxlhb.js
 ## 京喜token jd_cfd.js
 
-——————————————————————————————————————————————————————————
+—————————————————————
 # 以下的脚本没有上传↓
 ## 京东手机狂欢城jd_carnivalcity.js
 ## 城城分现金 jd_city.js
